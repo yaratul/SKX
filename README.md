@@ -13,8 +13,12 @@ The **Stripe Secret Key Validator Tool** is a Python-based command-line utility 
 - **Summary Report**: Generates a summary of the total checks, passed checks, and failed checks for quick review.
 - **Error Categorization**: Differentiates between unauthorized, forbidden, and other errors to give detailed diagnostic information.
  </br>
- #Join My Channel Working On a Project
+ #Join My Channel
+##Working On a Project
+
+
 **Help me on my project**
+
   **No paid help needed**
 <a href="https://t.me/notnxboi"><img src="https://raw.githubusercontent.com/yaratul/discord/main/images%20(7).jpeg" alt="https://t.me/notnxboi"></a>
 
