@@ -12,6 +12,7 @@ The **Stripe Secret Key Validator Tool** is a Python-based command-line utility 
 - **Logging**: Records all checks performed, including results and timestamps, in a log file (`stripe_key_check.log`).
 - **Summary Report**: Generates a summary of the total checks, passed checks, and failed checks for quick review.
 - **Error Categorization**: Differentiates between unauthorized, forbidden, and other errors to give detailed diagnostic information.
+<img src="https://raw.githubusercontent.com/yaratul/discord/main/images%20(7).jpeg" alt="https://t.me/notnxboi">
 
 ## Prerequisites
 
